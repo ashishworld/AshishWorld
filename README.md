@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Ashish Tiwari!  
-🚀 **Senior Cloud & DevOps Engineer** from 🇮🇳  
+🚀 **Senior Cloud & DevOps Engineer**
 
 🎯 Passionate about building **scalable and reliable cloud infrastructure** with expertise in **AWS, Azure, and GCP**.  
 💡 Skilled in **CI/CD pipelines, automation, Docker, Kubernetes, and cloud architecture** with 8+ years of experience.  
