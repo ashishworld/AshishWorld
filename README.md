@@ -33,4 +33,5 @@
 ## 🚀 **Projects**
 - 💻 **[Project Dockerization](https://github.com/AshishWorld/dockerize-laravel)** → *Dockerized Laravel project with CI/CD pipeline and auto-scaling*  
 - 🌟 **[Kubernetes Voting App](https://github.com/ashishworld/k8s-kind-voting-app)** → *ArgoCD, Python, Redis, .NET, and Node.js for real-time voting*
-- 🌟 **[DevSecOps Project - Netflix Clone on Cloud using Jenkins](https://github.com/ashishworld/DevSecOps-Project)** → *ArgoCD, K8's, Redis, and Node.js for real-time Streaming*  
+- 🌟 **[DevSecOps Project - Netflix Clone on Cloud using Jenkins](https://github.com/ashishworld/DevSecOps-Project)** → *ArgoCD, K8's, Redis, and Node.js for real-time Streaming*
+- 🌟 **[DevSecOps Project - tic-tac-toe-game using GitHub Actions](https://github.com/ashishworld/tic-tac-toe-game)** → *ArgoCD, K8's, Docker, Tailwind CSS, and React/Typrscript*  
