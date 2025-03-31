@@ -7,20 +7,20 @@
 ---
 
 ## ⚡ **Tech Stack & Skills**
-- **Languages:** Python, Bash, YAML, JavaScript  
+- **Languages:** Python Basic, Bash/Shell
 - **Cloud Platforms:** AWS, Azure, GCP  
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, Azure DevOps  
-- **Infrastructure as Code:** Terraform, Ansible, CloudFormation  
-- **Containers & Orchestration:** Docker, Kubernetes, Helm  
-- **Monitoring & Logging:** Prometheus, Grafana, Loki, ELK stack  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Infrastructure as Code:** Terraform  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **Monitoring & Logging:** Prometheus & Grafana  
 - **Version Control:** Git, GitHub, GitLab  
 
 ---
 
 ## 🌐 **Connect with Me**
 - 🌎 [GitHub](https://github.com/AshishWorld)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashish-tiwari-devops)  
-- 📧 Email: [ashish.tiwari@example.com](mailto:ashish.tiwari@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/iashishtiwari)  
+- 📧 Email: [ashish.kweb@gmail.com](mailto:ashish.kweb@gmail.com)  
 
 ---
 
